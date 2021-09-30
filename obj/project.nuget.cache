@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nICQSMROsJZI8GsJeOAkGTvUfli5HXxd1GYryPcRL6uUnY8oi7R1suiVxneOfcAnMfDITqCK2XwVvBAHNrOrA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Bob.filmes\\Bob.filmes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fmbar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

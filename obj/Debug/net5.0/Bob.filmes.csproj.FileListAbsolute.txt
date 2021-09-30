@@ -1,0 +1,5 @@
+C:\workspaces\cs\Bob.filmes\obj\Debug\net5.0\Bob.filmes.csproj.AssemblyReference.cache
+C:\workspaces\cs\Bob.filmes\obj\Debug\net5.0\Bob.filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\cs\Bob.filmes\obj\Debug\net5.0\Bob.filmes.AssemblyInfoInputs.cache
+C:\workspaces\cs\Bob.filmes\obj\Debug\net5.0\Bob.filmes.AssemblyInfo.cs
+C:\workspaces\cs\Bob.filmes\obj\Debug\net5.0\Bob.filmes.csproj.CoreCompileInputs.cache
